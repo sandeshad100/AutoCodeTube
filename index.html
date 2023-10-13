@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Typing Effect Example</title>
+    <style>
+        #output {
+            font-size: 24px;
+            white-space: pre;
+            overflow: hidden;
+            border-right: 2px solid #000;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Typing Effect Example</h1>
+
+    <textarea id="textInput" placeholder="Enter text or code to type..." rows="10" cols="40"></textarea>
+    <button id="startTyping">Type Text</button>
+
+    <pre id="output"></pre>
+
+    <script>
+        let typingPaused = false;
+        let currentIndex = 0;
+        let textToType = "";
+
+        document.getElementById("startTyping").addEventListener("click", function () {
+            if (!typingPaused) {
+                currentIndex = 0;
+            }
+            textToType = document.getElementById("textInput").value;
+            typeText();
+        });
+
+        function typeText() {
+            if (!typingPaused) {
+                if (currentIndex < textToType.length) {
+                    document.getElementById("output").textContent += textToType.charAt(currentIndex);
+                    currentIndex++;
+                    setTimeout(typeText, 50); // Adjust the speed of typing effect by changing the delay (in milliseconds)
+                }
+            }
+        }
+
+        document.addEventListener("keydown", function (event) {
+            if (event.key === "H" && event.shiftKey) {
+                typingPaused = !typingPaused;
+            }
+        });
+
+        document.addEventListener("keydown", function (event) {
+            if (event.key === " " && typingPaused) {
+                typingPaused = false;
+                // typeText();
+            }
+        });
+    </script>
+</body>
+
+</html>
