@@ -12,3 +12,12 @@ AutoCodeTube, an open-source project, streamlines code-driven video creation wit
 💎 Add and commit the changes. 
 💎 Generate a Pull Request 
 💎 That's it, We are done!!
+
+# What can I contribute?
+💎 You can provide guidelines on how this project should be developed.
+
+💎 You can create a VSCode extension or any tool that automates code typing, given the code file.
+
+💎 Any kind of small or large contributions are appreciated.
+
+
