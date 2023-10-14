@@ -2,7 +2,7 @@
 AutoCodeTube: Transforming Developers into Video Creators. 
 This open-source project revolutionizes code-driven video creation, eliminating the need for manual coding. Tailored for Code Video Creators, it supercharges video production by automating code typing.
 
-# AutoCodeTube Details
+# Details
 We're in the exciting early phases of AutoCodeTube development! While we haven't locked in a specific framework or technology yet, we're actively seeking guidance and research contributions. Your insights and suggestions on how to implement this idea are highly valued as we continue our research journey.
 
 Our initial vision points towards creating a Visual Studio Code (VSCode) extension.
