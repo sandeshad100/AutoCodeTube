@@ -21,4 +21,31 @@ This open-source project revolutionizes code-driven video creation, eliminating 
 
 💎 Any kind of small or large contributions are appreciated.
 
+# AutoCodeTube in Detail
+
+We're in the exciting early phases of AutoCodeTube development! While we haven't locked in a specific framework or technology yet, we're actively seeking guidance and research contributions. Your insights and suggestions on how to implement this idea are highly valued as we continue our research journey.
+
+Our initial vision points towards creating a Visual Studio Code (VSCode) extension.
+
+## The Challenge: Manual Typing
+
+The first puzzle we aim to solve is the burden of manual typing. Here's how it works:
+
+1. **Code Ready:** Developers have their code files ready.
+
+2. **Tool Setup:** Users configure their setup with our tool and the code files they wish to use.
+
+3. **Automated Typing:** Our tool seamlessly simulates typing, so users don't have to do it themselves. Just hit record with your favorite screen recorder.
+
+✨ **The Magic:** Our tool provides a convincing illusion of typing, eliminating the need for manual keystrokes.
+
+## Seamless Workflow
+
+While using AutoCodeTube, transitioning between your IDE and a browser can be handled manually. You'll have the power to PAUSE and RESUME the auto-typing process at any time, ensuring complete control over your content creation process.
+
+Your contributions and insights in this early research phase are invaluable. We're on an exciting journey, and we'd love to have you alongside as we pave the way for more efficient and innovative content creation. You can have your research contribution on our documentation folder of our repository or you can simply reach to us via other medium like social media to provide your valuable insight.
+
+👉 **Stay tuned for updates and join our research adventure!**
+
+
 
