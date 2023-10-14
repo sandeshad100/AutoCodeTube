@@ -37,7 +37,7 @@ Your contributions and insights in this early research phase are invaluable. We'
 💎 That's it, We are done!!
 
 # What can I contribute?
-💎 You can provide guidelines on how this project should be developed.
+💎 You can provide guidelines on how this project should be developed. You can write your guidelines/algoritm under our documentation folder.
 
 💎 You can create a VSCode extension or any tool that automates code typing, given the code file.
 
