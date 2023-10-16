@@ -11,11 +11,11 @@ Our initial vision points towards creating a Visual Studio Code (VSCode) extensi
 
 The first puzzle we aim to solve is the burden of manual typing. Here's how it works:
 
-1. **Code Ready:** Developers have their code files ready.
+1. 💻 **Code Ready:** Developers have their code files ready.
 
-2. **Tool Setup:** Users configure their setup with our tool and the code files they wish to use.
+2. ⚙️ **Tool Setup:** Users configure their setup with our tool and the code files they wish to use.
 
-3. **Automated Typing:** Our tool seamlessly simulates typing, so users don't have to do it themselves. Just hit record with your favorite screen recorder.
+3. ✍️ **Automated Typing:** Our tool seamlessly simulates typing, so users don't have to do it themselves. Just hit record with your favorite screen recorder.
 
 ✨ **The Magic:** Our tool provides a convincing illusion of typing, eliminating the need for manual keystrokes.
 
@@ -29,27 +29,22 @@ Your contributions and insights in this early research phase are invaluable. We'
 # How to Contribute
 💎 **Start by starring our repository**. Your star not only motivates us but also expands our repository's visibility to potential contributors like you. 📑
 
- Fork this repository📑  💎 [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)\
+🚀 Fork this repository📑  💎 [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)\
 💎 Clone the forked repository into local space\
 💎 Run Demo.html on yours local machine to see what we are going to build. 
-💎 Do the changes\
-💎 Optional 💎 You can add comments at the start of the file, if you want to share something, like steps to run the code etc\
-💎 Add and commit the changes. 
-💎 Generate a Pull Request 
-💎 That's it, We are done!!
+💻 Do the changes\
+💬 Optional 💬 You can add comments at the start of the file, if you want to share something, like steps to run the code etc\
+💾 Add and commit the changes. 
+📥 Generate a Pull Request 
+👍 That's it, We are done!!
 
-💎 OR
-💎 You can Clone this repository and create branch, make necessary changes and push to your branch.
+🌟 OR
+🌟 You can Clone this repository and create branch, make necessary changes and push to your branch.
 
 
 # What can I contribute?
-💎 You can provide guidelines on how this project should be developed. You can write your guidelines/algoritm under our documentation folder.
+📚 You can provide guidelines on how this project should be developed. You can write your guidelines/algorithm under our documentation folder.
 
-💎 You can create a VSCode extension or any tool that automates code typing, given the code file.
+💻 You can create a VSCode extension or any tool that automates code typing, given the code file.
 
-💎 Any kind of small or large contributions are appreciated.
-
-
-
-
-
+💼 Any kind of small or large contributions are appreciated.
