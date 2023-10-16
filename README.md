@@ -29,11 +29,6 @@ Your contributions and insights in this early research phase are invaluable. We'
 # How to Contribute
 💎 **Start by starring our repository**. Your star not only motivates us but also expands our repository's visibility to potential contributors like you. 📑
 
-💎 You can Clone this repository and create branch, make necessary chnages and push to your branch.
-
-💎 OR
-
-
  Fork this repository📑  💎 [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)\
 💎 Clone the forked repository into local space\
 💎 Run Demo.html on yours local machine to see what we are going to build. 
@@ -42,6 +37,10 @@ Your contributions and insights in this early research phase are invaluable. We'
 💎 Add and commit the changes. 
 💎 Generate a Pull Request 
 💎 That's it, We are done!!
+
+💎 OR
+💎 You can Clone this repository and create branch, make necessary changes and push to your branch.
+
 
 # What can I contribute?
 💎 You can provide guidelines on how this project should be developed. You can write your guidelines/algoritm under our documentation folder.
