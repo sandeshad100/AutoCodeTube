@@ -10,7 +10,8 @@ function activate(context) {
 
       if (editor) {
         // Replace this example code with your code simulation logic
-        const codeToType = 'console.log("Hello, World!");';
+       const codeToType = `console.log("Hello, World!");
+    console.log("Hello, World! 2");`;
         const position = new vscode.Position(0, 0); // Replace with the desired position
 
         // Function to insert characters with a typing effect
