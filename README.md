@@ -39,7 +39,7 @@ Your contributions and insights in this early research phase are invaluable. We'
 👍 That's it, We are done!!
 
 🌟 OR
-🌟 You can Clone this repository -> create branch -> make necessary changes and push to your branch.
+🌟 You can Clone this repository -> create branch -> make necessary changes and simply push to your branch.
 
 
 # What can I contribute?
